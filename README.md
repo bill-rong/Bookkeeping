@@ -7,4 +7,4 @@ Android课程设计，记账本
 ![image](img/out.JPG)
 ![image](img/add.JPG)
 
-<img src="https://github.com/maNongXiaoLiao/Bookkeeping/main/img/login.jpg?raw=true" width="300"/>
+<img src="https://github.com/maNongXiaoLiao/Bookkeeping/tree/main/img/login.jpg?raw=true" width="300"/>
